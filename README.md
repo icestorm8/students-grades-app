@@ -26,3 +26,7 @@ id:1
 
 בונוס: נסו לשמור בלוקאל סטורג' את המידע ככה שאם אכנס שוב לאפליקציה היא תזכור את רשימת התלמידים האחרונה
 טיפ: עם LOCALSTORAGE
+
+![image](https://github.com/icestorm8/students-grades-app/assets/98194094/b6559827-1477-4d94-810f-3bb505639df3)
+![image](https://github.com/icestorm8/students-grades-app/assets/98194094/03831a45-3331-46aa-8c26-c0599674d5c1)
+
